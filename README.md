@@ -20,11 +20,6 @@ Com uma trajetória sólida e apaixonante no mundo da tecnologia, me encontro at
   </a>
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=erick-eleuterio&show_icons=true&theme=dracula&locale=pt-br" alt="Estatísticas do GitHub de Eleuterio" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
-</div>
-
-
 
 
 ### Tecnologias e Ferramentas
