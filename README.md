@@ -12,11 +12,6 @@ Com uma trajetória sólida e apaixonante no mundo da tecnologia, me encontro at
   <a href="mailto:erickeleuterio2015@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 </div>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erickeleut%C3%A9rio/)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531975842228?text=)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erickeleuterio2015@gmail.com)
-
-
 
 <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=erick-eleuterio&show_icons=true&theme=dracula&locale=pt-br" alt="Estatísticas do GitHub de Eleuterio" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
