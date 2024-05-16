@@ -38,13 +38,10 @@
 </div>
 
 
-<h3 style="font-family: Arial, sans-serif; font-size: 24px; color: #8971235; text-align: center; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);">🏆 Minhas Certificações 🥇</h3>
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px; margin-bottom: 20px;">
 
+  <h3 style="font-family: Arial, sans-serif; font-size: 24px; color: #8971235; text-align: center; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5); margin: 0;">🏆 Minhas Certificações 🥇</h3>
 
-<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap" rel="stylesheet">
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; font-family: 'Roboto', sans-serif;">
-  
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; text-align: center; width: 120px;">
     <img src="https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" width="100" height="100" alt="Certified Kubernetes Administrator"/><br/>
     <span style="font-size: 14px; font-weight: bold;">Re/Start AWS</span>
@@ -72,4 +69,3 @@
 
 </div>
 
-<
