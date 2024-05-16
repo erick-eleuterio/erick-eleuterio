@@ -51,5 +51,11 @@
    <img align="center" src="https://images.credly.com/size/100x100/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" alt="Microsoft Certified: Security, Compliance, and Identity Fundamentals" width="100" height="100"> 
    <img align="center" src="https://images.credly.com/size/100x100/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png" alt="AWS Certified Solutions Architect – Associate" width="100" height="100"> 
 
+   <div align="center">
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
 
 
