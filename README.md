@@ -23,6 +23,10 @@
 
 </div>
 
+<br>
+<p align="center">
+  </big><big><big><b>Tecnologias e Ferramentas 😉️</b></big></big></big>
+</p>
 
 <p align="center">
   </big><big><big><b>Tecnologias e Ferramentas 😉️</b></big></big></big>
