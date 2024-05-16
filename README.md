@@ -47,25 +47,9 @@
 
 ### 🏆 Minhas Certificações 🥇
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <div>
-    <img src="https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" width="100" height="100" alt="Certified Kubernetes Administrator"/>
-    <p style="text-align: center;">Re/Start AWS</p>
-  </div>
-  <div>
-    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" height="100" alt="Microsoft Certified: Azure Fundamentals"/>
-    <p style="text-align: center;">Cloud Practitioner</p>
-  </div>
-  <div>
-    <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="100" height="100" alt="Microsoft Certified: Azure Solutions Architect Expert"/>
-    <p style="text-align: center;">Azure Fundamentals</p>
-  </div>
-  <div>
-    <img src="https://images.credly.com/size/340x340/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" width="100" height="100" alt="Microsoft Certified: Security, Compliance, and Identity Fundamentals"/>
-    <p style="text-align: center;">Security & Compliance</p>
-  </div>
-  <div>
-    <img src="https://images.credly.com/size/340x340/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png" width="100" height="100" alt="AWS Certified Solutions Architect – Associate"/>
-    <p style="text-align: center;">Microsoft 365</p>
-  </div>
-</div>
+![Certified Kubernetes Administrator](https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png) Re/Start AWS
+![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png) Cloud Practitioner
+![Microsoft Certified: Azure Solutions Architect Expert](https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png) Azure Fundamentals
+![Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://images.credly.com/size/340x340/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png) Security & Compliance
+![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/340x340/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png) Microsoft 365
+
