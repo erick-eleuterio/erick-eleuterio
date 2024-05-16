@@ -20,7 +20,9 @@ Com uma trajetória sólida e apaixonante no mundo da tecnologia, me encontro at
   </a>
 </div>
 
-
+ <p align="center">
+    Tecnologias e Ferramentas 😉️
+  </p>
 
 ### Tecnologias e Ferramentas
 
