@@ -45,6 +45,7 @@
 </div>
 
 
+
 ### 🏆 Minhas Certificações 🥇
 
 <img src="https://images.credly.com/size/100x100/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="Certified Kubernetes Administrator" width="100" height="100"> .
