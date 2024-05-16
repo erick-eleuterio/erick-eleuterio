@@ -27,14 +27,14 @@
   </big><big><big><b>Tecnologias e Ferramentas 😉️</b></big></big></big>
 </p>
 
-<div align="center">
-  <a href="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
-  <a href="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-  <a href="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a> 
-  <a href="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"></a> 
-  <a href="https://img.shields.io/badge/pfSense-212121.svg?style=for-the-badge&logo=pfSense&logoColor=white"></a> 
-  <a href="https://img.shields.io/badge/Terraform-844FBA.svg?style=for-the-badge&logo=Terraform&logoColor=white"></a> 
-</div>
+<div align="center" valign="top"><br>
+  <img align="center" alt="React" height="30" width="40" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img align="center" alt="Redux" height="30" width="40" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img align="center" alt="Js" height="30" width="40" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+  <img align="center" alt="Js" height="30" width="40" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white">
+  <img align="center" alt="HTML" height="30" width="40" src="https://img.shields.io/badge/pfSense-212121.svg?style=for-the-badge&logo=pfSense&logoColor=white">
+  <img align="center" alt="CSS" height="30" width="40" src="https://img.shields.io/badge/Terraform-844FBA.svg?style=for-the-badge&logo=Terraform&logoColor=white">
+</div><br>
 
 ![Linkedin](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Whatsapp](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
