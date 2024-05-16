@@ -28,9 +28,6 @@
   </big><big><big><b>Tecnologias e Ferramentas 😉️</b></big></big></big>
 </p>
 
-<p align="center">
-  </big><big><big><b>Tecnologias e Ferramentas 😉️</b></big></big></big>
-</p>
 
 <div align="center" valign="top"><br>
   <img align="center" alt="React" height="30" width="110" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
