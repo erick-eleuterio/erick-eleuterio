@@ -21,7 +21,7 @@
 <div align="center">
   <a href="https://github.com/erick-eleuterio">
     <img src="https://github-readme-stats.vercel.app/api?username=erick-eleuterio&show_icons=true&theme=dracula&locale=pt-br" alt="Estatísticas do GitHub de Eleuterio" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
-     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erick-eleuterio&hide_progress=true" alt="Estatísticas do GitHub de Eleuterio" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
   </a>
 </div>
 
