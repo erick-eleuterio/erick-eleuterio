@@ -32,7 +32,7 @@
 
 
 <div align="center" valign="top"><br>
-  <img align="center" alt="React" height="30" width="110" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img align="center" alt="React" height="30" width="110" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"><img src="https://www.credly.com/badges/c57d0a21-0aaa-41e4-b96d-0ac4d9f1fe3e"></a>
   <img align="center" alt="Redux" height="30" width="100" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img align="center" alt="Js" height="30" width="110" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
   <img align="center" alt="Js" height="30" width="100" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white">
