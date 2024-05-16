@@ -21,7 +21,7 @@ Com uma trajetória sólida e apaixonante no mundo da tecnologia, me encontro at
 </div>
 
 <p align="center">
-  <big><b>Tecnologias e Ferramentas 😉️</b></big>
+  <big><big><b>Tecnologias e Ferramentas 😉️</b></big></big>
 </p>
 
 
