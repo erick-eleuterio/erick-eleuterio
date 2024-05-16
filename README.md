@@ -2,8 +2,9 @@
 
 
 <p align="center">
-  </big><big><big><b>Com uma trajetória sólida e apaixonante no mundo da tecnologia, me encontro atualmente como Analista de Infraestrutura de TI Pleno na Efí Bank. Ao longo dos anos, acumulei experiência em diversas áreas, desde o suporte técnico na Bemil Beneficiamento de Minério até a instalação e manutenção de redes na Valenet Telecom. Essa jornada me permitiu mergulhar fundo em sistemas Linux e Windows, administrar plataformas como Active Directory e Microsoft 365, além de me aventurar no universo da nuvem, especialmente na AWS e Azure.Empenhado em evoluir e colaborar no desenvolvimento das pessoas e projetos, aprendendo novas tecnologias realizando cursos e desafios práticos constantemente.</b></big></big></big>
+  <small>Com uma trajetória sólida e apaixonante no mundo da tecnologia, me encontro atualmente como Analista de Infraestrutura de TI Pleno na Efí Bank. Ao longo dos anos, acumulei experiência em diversas áreas, desde o suporte técnico na Bemil Beneficiamento de Minério até a instalação e manutenção de redes na Valenet Telecom. Essa jornada me permitiu mergulhar fundo em sistemas Linux e Windows, administrar plataformas como Active Directory e Microsoft 365, além de me aventurar no universo da nuvem, especialmente na AWS e Azure. Empenhado em evoluir e colaborar no desenvolvimento das pessoas e projetos, aprendendo novas tecnologias realizando cursos e desafios práticos constantemente.</small>
 </p>
+
 
 Com uma trajetória sólida e apaixonante no mundo da tecnologia, me encontro atualmente como Analista de Infraestrutura de TI Pleno na Efí Bank. Ao longo dos anos, acumulei experiência em diversas áreas, desde o suporte técnico na Bemil Beneficiamento de Minério até a instalação e manutenção de redes na Valenet Telecom. Essa jornada me permitiu mergulhar fundo em sistemas Linux e Windows, administrar plataformas como Active Directory e Microsoft 365, além de me aventurar no universo da nuvem, especialmente na AWS e Azure.Empenhado em evoluir e colaborar no desenvolvimento das pessoas e projetos, aprendendo novas tecnologias realizando cursos e desafios práticos constantemente.
 
