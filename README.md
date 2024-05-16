@@ -40,7 +40,8 @@
 
 </div>
 
-
+<br>
+<br>
 <p align="center">
   </big><big><big><b>Minhas Certificações 🥇</b></big></big></big>
 </p>
