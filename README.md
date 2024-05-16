@@ -26,7 +26,7 @@
 
 
 
-### 🏆 Minhas Certificações 🥇
+### Minhas Certificações 🥇
 
 ⭐<img src="https://images.credly.com/size/100x100/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="Certified Kubernetes Administrator" width="100" height="100"> ⭐
 <img src="https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="Microsoft Certified: Azure Fundamentals" width="100" height="100"> ⭐
