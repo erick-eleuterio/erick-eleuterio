@@ -1,8 +1,5 @@
-<center>
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Olá 🌎! Eu sou Erick Eleutério ☁️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-### Olá 🌎! Eu sou Erick Eleutério ☁️
-
-</center>
 
 
 
