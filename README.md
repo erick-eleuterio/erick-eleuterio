@@ -39,33 +39,26 @@
 
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px; margin-bottom: 20px;">
-
   <h3 style="font-family: Arial, sans-serif; font-size: 24px; color: #8971235; text-align: center; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5); margin: 0;">🏆 Minhas Certificações 🥇</h3>
-
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; text-align: center; width: 120px;">
     <img src="https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" width="100" height="100" alt="Certified Kubernetes Administrator"/><br/>
     <span style="font-size: 14px; font-weight: bold;">Re/Start AWS</span>
   </div>
-
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; text-align: center; width: 120px;">
     <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" height="100" alt="Microsoft Certified: Azure Fundamentals"/><br/>
     <span style="font-size: 14px; font-weight: bold;">Cloud Practitioner </span>
   </div>
-
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; text-align: center; width: 120px;">
     <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="100" height="100" alt="Microsoft Certified: Azure Solutions Architect Expert"/><br/>
     <span style="font-size: 14px; font-weight: bold;">Azure Fundamentals</span>
   </div>
-
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; text-align: center; width: 120px;">
     <img src="https://images.credly.com/size/340x340/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" width="100" height="100" alt="Microsoft Certified: Security, Compliance, and Identity Fundamentals"/><br/>
     <span style="font-size: 14px; font-weight: bold;">Security & Compliance</span>
   </div>
-
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; text-align: center; width: 120px;">
     <img src="https://images.credly.com/size/340x340/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png" width="100" height="100" alt="AWS Certified Solutions Architect – Associate"/><br/>
     <span style="font-size: 14px; font-weight: bold;">Microsoft 365 </span>
   </div>
-
 </div>
 
