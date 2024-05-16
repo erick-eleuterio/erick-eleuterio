@@ -22,7 +22,7 @@
 </div>
 
 </div>
-
+<br>
 <br>
 <p align="center">
   </big><big><big><b>Tecnologias e Ferramentas 😉️</b></big></big></big>
