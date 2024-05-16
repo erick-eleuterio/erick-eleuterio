@@ -20,28 +20,22 @@
 
   <div style="border: 2px solid #232F3E; border-radius: 8px; box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2); padding: 5px;">
     <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  </div>.
-
+  </div>
   <div style="border: 2px solid #FCC624; border-radius: 8px; box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2); padding: 5px;">
     <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  </div>.
-
+  </div>
   <div style="border: 2px solid #0089D6; border-radius: 8px; box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2); padding: 5px;">
     <img align="center" alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-  </div>.
-
+  </div>
   <div style="border: 2px solid #4479A1; border-radius: 8px; box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2); padding: 5px;">
     <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"/>
-  </div>.
-
+  </div>
   <div style="border: 2px solid #212121; border-radius: 8px; box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2); padding: 5px;">
     <img align="center" alt="pfSense" src="https://img.shields.io/badge/pfSense-212121.svg?style=for-the-badge&logo=pfSense&logoColor=white"/>
-  </div>.
-
+  </div>
   <div style="border: 2px solid #844FBA; border-radius: 8px; box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2); padding: 5px;">
     <img align="center" alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA.svg?style=for-the-badge&logo=Terraform&logoColor=white"/>
-  </div>.
-
+  </div>
 </div>
 
 
