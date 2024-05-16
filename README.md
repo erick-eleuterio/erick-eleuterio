@@ -47,9 +47,10 @@
 
 ### 🏆 Minhas Certificações 🥇
 
-![Certified Kubernetes Administrator](https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png) Re/Start AWS
-![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png) Cloud Practitioner
-![Microsoft Certified: Azure Solutions Architect Expert](https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png) Azure Fundamentals
-![Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://images.credly.com/size/340x340/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png) Security & Compliance
-![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/340x340/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png) Microsoft 365
+<img src="https://images.credly.com/size/100x100/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="Certified Kubernetes Administrator" width="100" height="100"> Re/Start AWS
+<img src="https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="Microsoft Certified: Azure Fundamentals" width="100" height="100"> Cloud Practitioner
+<img src="https://images.credly.com/size/100x100/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Certified: Azure Solutions Architect Expert" width="100" height="100"> Azure Fundamentals
+<img src="https://images.credly.com/size/100x100/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" alt="Microsoft Certified: Security, Compliance, and Identity Fundamentals" width="100" height="100"> Security & Compliance
+<img src="https://images.credly.com/size/100x100/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png" alt="AWS Certified Solutions Architect – Associate" width="100" height="100"> Microsoft 365
+
 
