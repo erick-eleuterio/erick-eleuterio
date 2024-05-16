@@ -25,8 +25,6 @@ Com uma trajetória sólida e apaixonante no mundo da tecnologia, me encontro at
 </p>
 
 
-### Tecnologias e Ferramentas
-
 ![Linkedin](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Whatsapp](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Gmail](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
