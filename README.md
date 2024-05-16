@@ -26,7 +26,6 @@
 </div>
 <hr>
 <br>
-<br>
 <p align="center">
   </big><big><big><b>Tecnologias e Ferramentas 😉️</b></big></big></big>
 </p>
@@ -43,7 +42,6 @@
 
 </div>
 <hr>
-<br>
 <br>
 <p align="center">
   </big><big><big><b>Minhas Certificações 🥇</b></big></big></big>
