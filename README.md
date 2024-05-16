@@ -27,7 +27,7 @@
 </div>
 <br>
 <p align="center">
-  </big><big><big><big><b>Tecnologias e Ferramentas 😉️</b></big></big></big></big>
+  </big></big></big></big><big><big><big><b>Tecnologias e Ferramentas 😉️</b></big></big></big></big></big></big></big>
 </p>
 
 
@@ -45,7 +45,7 @@
 </div>
 <br>
 <p align="center">
-  </big></big><big><big><b>Minhas Certificações 🥇</b></big></big></big></big>
+  </big></big></big></big></big><big><big><b>Minhas Certificações 🥇</b></big></big></big></big></big></big></big>
 </p>
 
 <div align="center" valign="top"><br>
