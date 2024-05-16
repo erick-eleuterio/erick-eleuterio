@@ -13,7 +13,8 @@
   <a href="https://wa.me/5531975842228?text="><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="mailto:erickeleuterio2015@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 </div>
-
+<br>
+<br>
 </div>
 
 <div align="center">
