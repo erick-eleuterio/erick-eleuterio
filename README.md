@@ -38,9 +38,6 @@
   <img align="center" alt="Js" height="30" width="100" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white">
   <img align="center" alt="HTML" height="30" width="100" src="https://img.shields.io/badge/pfSense-212121.svg?style=for-the-badge&logo=pfSense&logoColor=white">
   <img align="center" alt="CSS" height="30" width="110" src="https://img.shields.io/badge/Terraform-844FBA.svg?style=for-the-badge&logo=Terraform&logoColor=white">
-   <a href="https://www.credly.com/badges/c57d0a21-0aaa-41e4-b96d-0ac4d9f1fe3e" target="_blank">
-    <img align="center" alt="React" height="30" width="110" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-</a>
 
 </div><br>
 
