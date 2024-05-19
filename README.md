@@ -40,7 +40,7 @@
   <img align="center" alt="Pfsense" height="30" width="100" src="https://img.shields.io/badge/pfSense-212121.svg?style=for-the-badge&logo=pfSense&logoColor=white">
   <img align="center" alt="Terraform" height="30" width="110" src="https://img.shields.io/badge/Terraform-844FBA.svg?style=for-the-badge&logo=Terraform&logoColor=white">
   <img align="center" alt="Git" height="30" width="80" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white">
-  <img align="center" alt="GitHub" height="30" width="80" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
+  <img align="center" alt="GitHub" height="30" width="100" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
 
 
 
