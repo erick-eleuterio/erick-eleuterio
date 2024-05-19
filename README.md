@@ -39,6 +39,8 @@
   <img align="center" alt="Js" height="30" width="100" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white">
   <img align="center" alt="HTML" height="30" width="100" src="https://img.shields.io/badge/pfSense-212121.svg?style=for-the-badge&logo=pfSense&logoColor=white">
   <img align="center" alt="CSS" height="30" width="110" src="https://img.shields.io/badge/Terraform-844FBA.svg?style=for-the-badge&logo=Terraform&logoColor=white">
+  <img align="center" alt="CSS" height="30" width="110" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white">
+
 
 </div><br>
 
