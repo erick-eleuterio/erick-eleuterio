@@ -33,9 +33,8 @@
 </div>
 
 <br>
-<p align="center" style="font-size: 24px; font-weight: bold;">
-  <span style="font-size: inherit;">Tecnologias e Ferramentas 😉️</span>
-</p>
+<h2 align="center">Tecnologias e Ferramentas 😉️</h2>
+
 
 
 
