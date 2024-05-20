@@ -32,13 +32,11 @@
 
 </div>
 
-
-</div>
 <br>
-<p align="center" style="font-size: 36px; font-weight: bold;">
-  Tecnologias e Ferramentas 😉️
+<p align="center" style="font-size: 24px; font-weight: bold;">
+  <span style="font-size: inherit;">Tecnologias e Ferramentas 😉️</span>
 </p>
-zv\
+
 
 
 
