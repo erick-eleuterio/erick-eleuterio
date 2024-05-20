@@ -1,3 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    .marquee {
+      width: 100%;
+      overflow: hidden;
+      white-space: nowrap;
+      box-sizing: border-box;
+      animation: marquee 15s linear infinite;
+    }
+
+    .marquee span {
+      display: inline-block;
+      padding-left: 100%;
+      text-align: center;
+    }
+
+    @keyframes marquee {
+      0% { transform: translateX(100%); }
+      100% { transform: translateX(-100%); }
+    }
+  </style>
+</head>
+<body>
+  <br>
+  <div class="marquee">
+    <span>Tecnologias e Ferramentas 😉️</span>
+  </div>
+</body>
+</html>
+
+
 <br>
 <h2 align="center">Olá 🌎! Eu sou Erick Eleutério ☁️</h2>
 
