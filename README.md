@@ -56,7 +56,7 @@
 </div><br>
 
 <br>
-<h2 align="center">Minhas Certificações 🥇</h2>
+<h2 align="center">🥇 Minhas Certificações 🥇</h2>
 </div>
 
 <div align="center" valign="top"><br>
