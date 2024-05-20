@@ -35,7 +35,7 @@
 </div>
 
 <br>
-<h2 align="center">Tecnologias e Ferramentas 😉️</h2>
+<h2 align="center">🛠️ Tecnologias e Ferramentas 🛠️</h2>
 
 
 
