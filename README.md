@@ -53,11 +53,9 @@
 
 </div><br>
 
-</div>
 <br>
-<p align="center">
-  </big></big></big></big></big><big><big><b>Minhas Certificações 🥇</b></big></big></big></big></big></big></big>
-</p>
+<h2 align="center">Minhas Certificações 🥇</h2>
+</div>
 
 <div align="center" valign="top"><br>
    <img align="center" src="https://images.credly.com/size/100x100/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="Certified Kubernetes Administrator" width="100" height="100"> 
