@@ -20,11 +20,13 @@
 
 <div align="center">
   <a href="https://github.com/erick-eleuterio">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erick-eleuterio&layout=compact&theme=dracula&locale=pt-br" alt="Linguagens Mais Usadas" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); margin-bottom: 20px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erick-eleuterio&layout=compact&theme=dracula&locale=pt-br" alt="Linguagens Mais Usadas" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); margin-bottom: 20px; display: block;" />
   </a>
   <a href="https://github.com/erick-eleuterio">
-    <img src="https://github-readme-stats.vercel.app/api?username=erick-eleuterio&show_icons=true&theme=dracula&locale=pt-br" alt="Estatísticas do GitHub de Eleuterio" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+    <img src="https://github-readme-stats.vercel.app/api?username=erick-eleuterio&show_icons=true&theme=dracula&locale=pt-br" alt="Estatísticas do GitHub de Eleuterio" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); display: block;" />
   </a>
+</div>
+
 </div>
 
 
