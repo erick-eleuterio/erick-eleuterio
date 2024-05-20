@@ -35,7 +35,7 @@
 
 </div>
 <br>
-<p align="center" style="font-size: 24px; font-weight: bold;">
+<p align="center" style="font-size: 36px; font-weight: bold;">
   Tecnologias e Ferramentas 😉️
 </p>
 zv\
