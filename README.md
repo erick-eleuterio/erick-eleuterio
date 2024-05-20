@@ -35,9 +35,10 @@
 
 </div>
 <br>
-<p align="center">
-  </big></big></big></big><big><big><big><b>Tecnologias e Ferramentas 😉️</b></big></big></big></big></big></big></big>
+<p align="center" style="font-size: 24px; font-weight: bold;">
+  Tecnologias e Ferramentas 😉️
 </p>
+zv\
 
 
 
