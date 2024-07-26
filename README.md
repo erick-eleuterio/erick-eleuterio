@@ -78,7 +78,7 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/erick-eleuterio/erick-eleuterio/output/github-contribution-grid-snake.svg">
 
 </picture>
-
+</div><br>
 </br>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/erick-eleuterio/count.svg" /></p>
 
