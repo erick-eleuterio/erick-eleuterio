@@ -79,5 +79,7 @@
 
 </picture>
 
+</br>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/erick-eleuterio/count.svg" /></p>
 
 
