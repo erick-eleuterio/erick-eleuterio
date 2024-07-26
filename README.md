@@ -9,7 +9,8 @@
 </p>
 
 
-<small>Tenho graduação em Gestão da Tecnologia da Informação pela Uninter e pós-graduação em Cloud Computing pelo Instituto Infnet. Essas formações me permitem gerenciar recursos tecnológicos e implementar soluções em nuvem de forma eficiente.
+<small>Tenho graduação em Gestão da Tecnologia da Informação pela [Uninter](https://www.uninter.com/graduacao-ead/curso-gestao-da-tecnologia-da-informacao/) e pós-graduação em Cloud Computing pelo [Instituto Infnet](https://posgraduacao.infnet.edu.br/ead/pos-graduacao-cloud-computing/). Essas formações me permitem gerenciar recursos tecnológicos e implementar soluções em nuvem de forma eficiente.
+
 <br>
 <br>
 
