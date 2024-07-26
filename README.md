@@ -19,6 +19,7 @@
   <a href="https://wa.me/5531975842228?text="><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="mailto:erickeleuterio2015@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
   <a href="https://www.credly.com/users/erick-eleuterio/badges"><img src="https://img.shields.io/badge/Credly-FF6B00.svg?style=for-the-badge&logo=Credly&logoColor=white"></a> 
+  <a href="https://drive.google.com/file/d/1tk7LUJ809tuAwUgJW_vj6_gjLUpItuEc/view?usp=drive_link"><img src="[https://img.shields.io/badge/Credly-FF6B00.svg?style=for-the-badge&logo=Credly&logoColor=whit](https://img.shields.io/badge/Read.cv-111111.svg?style=for-the-badge&logo=readdotcv&logoColor=white)"></a> 
 </div>
 <br>
 <br>
