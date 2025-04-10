@@ -8,7 +8,7 @@
     Olá! Meu nome é Erick Eleutério e atualmente atuo como Analista de Cloud Júnior II na Efí Bank.<br>
     Sou apaixonado por tecnologia e inovação, com experiência prática em ambientes Linux, Windows, Active Directory, Microsoft 365, Microsoft Intune, além da administração de soluções em AWS e Azure.<br><br>
     Minha trajetória começou na área de suporte técnico e infraestrutura, passando por empresas como Bemil Beneficiamento de Minério e Valenet Telecom, onde atuei com redes, fibra óptica e manutenção de ambientes corporativos.<br><br>
-    Sou graduado em Gestão da Tecnologia da Informação pela Uninter e pós-graduado em Cloud Computing, Virtualização e Conteinerização pelo Instituto Infnet.<br>
+    Sou graduado em Gestão da Tecnologia da Informação pela Uninter e pós-graduado em Cloud Computing, Virtualização e Conteinerização pelo Instituto Infnet.<br><br>
     Atualmente sigo focado no desenvolvimento de soluções em nuvem e segurança da informação, sempre buscando evoluir e entregar valor através da tecnologia.
   </small>
 </p>
