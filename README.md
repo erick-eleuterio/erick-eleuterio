@@ -4,7 +4,8 @@
 <h2 align="center">Olá 🌎! Eu sou Erick Eleutério ☁️</h2>
 
 <p align="center">
-  <small>Olá! Meu nome é Erick Eleutério e atualmente atuo como Analista de Cloud Júnior II na Efí Bank.
+  <small>
+Olá! Meu nome é Erick Eleutério e atualmente atuo como Analista de Cloud Júnior II na Efí Bank.
 Sou apaixonado por tecnologia e inovação, com experiência prática em ambientes Linux, Windows, Active Directory, Microsoft 365, Microsoft Intune, além da administração de soluções em AWS e Azure.
 
 Minha trajetória começou na área de suporte técnico e infraestrutura, passando por empresas como Bemil Beneficiamento de Minério e Valenet Telecom, onde atuei com redes, fibra óptica e manutenção de ambientes corporativos.
