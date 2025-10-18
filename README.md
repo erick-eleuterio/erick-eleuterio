@@ -76,20 +76,16 @@
    <img align="center" src="https://images.credly.com/size/100x100/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png" alt="AWS Certified Solutions Architect – Associate" width="100" height="100"> 
     
 
-   <div align="center">
+#   </div>
 
+# <picture align="center">
+#  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erick-eleuterio//output/github-contribution-grid-snake-dark.svg">
+#  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erick-eleuterio/erick-eleuterio/output/github-contribution-grid-snake-dark.svg">
+#  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/erick-eleuterio/erick-eleuterio/output/github-contribution-grid-snake.svg">
 
-  
-</div>
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erick-eleuterio//output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erick-eleuterio/erick-eleuterio/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/erick-eleuterio/erick-eleuterio/output/github-contribution-grid-snake.svg">
-
-</picture>
-</div><br>
-</br>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/erick-eleuterio/count.svg" /></p>
+# </picture>
+# </div><br>
+# </br>
+# <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/erick-eleuterio/count.svg" /></p>
 
 
